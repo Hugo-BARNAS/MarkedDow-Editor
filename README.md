@@ -55,7 +55,7 @@ Learning basic functions of React
  
  
 ## Status
-Project is:  Finished
+Project is : Finished
 
 
 ## Contact
