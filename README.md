@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/57058997/96035390-44937e00-0e63-11eb-98ea-7cd329ae927f.png" height="50">
 <img src="https://user-images.githubusercontent.com/57058997/96336863-be558280-1082-11eb-8185-eb57e01ab43b.png" height="50">
 </p>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 
 # React-component-input
