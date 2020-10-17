@@ -27,16 +27,13 @@ Learning basic functions of React
 
 ## Démonstration
 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/57058997/96337550-54d87280-1088-11eb-9881-71a14eeb9772.gif)
 
 
 ## Technologies
 * node.js
 * marked
 * React.js
-
-
-
-
 
 
 ## What I learn : 
