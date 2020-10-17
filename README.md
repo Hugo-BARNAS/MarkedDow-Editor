@@ -25,7 +25,7 @@
 ## General info
 Learning basic functions of React
 
-## Screenshots
+## Démonstration
 
 
 
