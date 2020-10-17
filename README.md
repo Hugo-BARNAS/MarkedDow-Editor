@@ -33,11 +33,7 @@ Learning basic functions of React
 * node.js
 * marked
 * React.js
-* component
-* localstorage.setItem
-* localstorage.getItem
-* componentDidUpdate
-* componentDidMount
+
 
 
 
@@ -50,6 +46,11 @@ Learning basic functions of React
  <li>onChange
  <li>State
  <li>Event
+ <li>component
+ <li>localstorage.setItem
+ <li>localstorage.getItem
+ <li>componentDidUpdate
+ <li> componentDidMount
 </ul>
  
  
